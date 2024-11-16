@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, 'Times New Roman';
+    background-color: #f0f0f0;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #ef0e0e;
+    border-radius: 100%;
+    display: inline;
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+}
+
+li {
+    margin: 0 10px;
+    padding: 2px;
+}
+
+.header {
+    display: flex;
+}
+
+a {
+    display: inline;
+    margin: auto auto auto 10px;
+}
+
+.flex {
+    display: flex;
+}
