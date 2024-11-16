@@ -60,3 +60,9 @@ img {
     background-color: #aeacacd5;
     border: 1px solid #808080d5;
 }
+
+.card-item button:hover {
+    box-shadow: 8px 9px 11px 3px rgba(34, 60, 80, 0.2) inset;
+    border: 0;
+    background-color: #d4d2d2;
+}
